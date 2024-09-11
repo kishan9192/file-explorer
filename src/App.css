@@ -1,0 +1,6 @@
+.navigation__container {
+  background-color: rgba(231, 214, 214, 0.793);
+  max-height: 100vh;
+  max-width: 40%;
+  padding: 4px 10px;
+}
